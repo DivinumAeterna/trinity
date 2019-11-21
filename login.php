@@ -61,7 +61,7 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="index.php">Home</a></li>
+			          <li><a href="index.html">Home</a></li>
 			          <li class="menu-has-children"><a href="">Account</a>
 			            <ul>
 		            	  <li><a href="login.php">Log in</a></li>
